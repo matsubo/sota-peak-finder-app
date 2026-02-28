@@ -1,0 +1,51 @@
+{
+  "packageId": "com.teraren.sotapeakfinder",
+  "host": "matsubo.github.io",
+  "name": "SOTA Peak Finder",
+  "launcherName": "SOTA Peak Finder",
+  "display": "standalone",
+  "themeColor": "#0C1420",
+  "themeColorDark": "#0C1420",
+  "navigationColor": "#0C1420",
+  "navigationColorDark": "#0C1420",
+  "navigationDividerColor": "#0C1420",
+  "navigationDividerColorDark": "#0C1420",
+  "backgroundColor": "#0C1420",
+  "enableNotifications": false,
+  "startUrl": "/sota-peak-finder/",
+  "iconUrl": "https://matsubo.github.io/sota-peak-finder/icon-512.png",
+  "maskableIconUrl": "https://matsubo.github.io/sota-peak-finder/icon-512.png",
+  "monochromeIconUrl": "https://matsubo.github.io/sota-peak-finder/icon-512.png",
+  "shortcuts": [],
+  "signingKey": {
+    "path": "./sota-peak-finder.keystore",
+    "alias": "sota-peak-finder"
+  },
+  "appVersionCode": 1,
+  "appVersionName": "1.0.0",
+  "splashScreenFadeOutDuration": 300,
+  "enableSiteSettingsShortcut": true,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://matsubo.github.io/sota-peak-finder/",
+  "minSdkVersion": 21,
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": true
+    },
+    "playBilling": {
+      "enabled": false
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableChromeOsTabletMode": false,
+  "serviceAccountJsonFile": "",
+  "generatorApp": "bubblewrap-cli"
+}

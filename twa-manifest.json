@@ -22,7 +22,7 @@
     "alias": "sota-peak-finder"
   },
   "appVersionCode": 1,
-  "appVersionName": "1.0.0",
+  "appVersionName": "0.0.1",
   "splashScreenFadeOutDuration": 300,
   "enableSiteSettingsShortcut": true,
   "orientation": "portrait",

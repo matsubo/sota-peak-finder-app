@@ -1,5 +1,11 @@
 # SOTA Peak Finder - Android App
 
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
+[![API 21+](https://img.shields.io/badge/API-21%2B-brightgreen)](https://developer.android.com/about/versions/lollipop)
+[![TWA](https://img.shields.io/badge/Type-Trusted%20Web%20Activity-4285F4?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/android/trusted-web-activity)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Gradle](https://img.shields.io/badge/Gradle-8.12-02303A?logo=gradle&logoColor=white)](https://gradle.org/)
+
 Android [Trusted Web Activity (TWA)](https://developer.chrome.com/docs/android/trusted-web-activity) wrapper for [SOTA Peak Finder](https://matsubo.github.io/sota-peak-finder/).
 
 This app packages the SOTA Peak Finder web application as a native Android app using TWA, providing a full-screen, app-like experience without a browser toolbar.
